@@ -1,4 +1,4 @@
-Automation Testing - SauceDemo Website
+Automation Testing Website
 Description
 
 This repository contains automated tests for the SauceDemo website (https://www.saucedemo.com/), written using WebDriverIO (JavaScript) for browser automation and Allure for generating test reports.
@@ -28,7 +28,7 @@ Installation
 Clone the Repository
 Clone the repository to your local machine:
 
-git clone https://github.com/saj0cse/Automation-Testing-SauceDemo.git
+git clone https://github.com/moriomOdOx/-Automation-Testing.git
 
 Initialize the Project Run the following commands to set up the project:
 
@@ -43,7 +43,7 @@ Use the npm init wizard to initialize the project with the following options:
     Test Command: (Leave empty)
     Git Repository: (Leave empty)
     Keywords: webdriverio_page_object_framework
-    Author: Shakil_Ahammed
+    Author: moriom Akter
     License: ISC
 
 3. Install WebDriverIO CLI
@@ -67,10 +67,8 @@ The wizard will ask a series of questions to set up the framework:
     Browser: Chrome
     Testing Framework: Mocha
     Typescript: No
-    Test Files Location: D:\SQA\Automation API Testing\Automation Testing Assessment\test\specs\**\*.js
-    Page Objects: Yes
-    Page Objects Location: D:\SQA\Automation API Testing\Automation Testing Assessment\test\pageobjects\**\*.js
-    Reporter: spec
+    
+    Reporter: allure 
     Visual Testing: No
     Services: No
     Run npm install: Yes
